@@ -11,4 +11,21 @@
   justify-content: center;
   align-items: center;
   flex-direction: column;
+  margin: 30px 30px;
+  text-align: center;
+}
+
+.title{
+  color:#2ecc71;
+}
+
+.close{
+  
+  cursor: pointer;
+  display: flex;
+  flex-direction: row-reverse;
+  margin: 20px 20px;
+}
+#btn-close{
+  color: #e74c3c;
 }
